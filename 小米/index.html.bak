@@ -1,0 +1,764 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="./css/index.css">
+ </head>
+ <body>
+ <!--导航-->
+ <div class="head">
+ <div class="content">
+	<div class="headleft">
+	<a href="http://www.mi.com/" target="_blank">小米网</a>
+	 <span>|</span>
+	<a href="#">MIUI</a>
+	<span>|</span>
+	<a href="#">米聊</a>
+	<span>|</span>
+	<a href="#">游戏</a>
+	<span>|</span>
+	<a href="#">多看阅读</a>
+	<span>|</span>
+	<a href="#">云服务</a>
+	<span>|</span>
+	<a href="#">小米网移动版</a>
+	<span>|</span>
+	<a href="#">问题反馈</a>
+	<span>|</span>
+	<a href="#">Select Region</a>
+	</div>
+
+
+<div class="headright">
+<div class="headrightleft">
+<a href="#">登录</a>
+<span>|</span>
+<a href="#">注册</a>
+</div>
+<div class="headrightright">
+<img src="images/shop.png"/>
+
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+
+<!--logo-->
+<div class="zero">
+  <div  class="yi">
+  <div class="yileft">
+     <a>
+       <img src="images/QQ图片20160220153822.png"/>
+     </a>
+  </div>
+  <div class="yimiddle">
+     <div class="middlesmall"><a href="javascript:;">社区 </a></div>
+     <div class="middlesmall"><a href="javascript:;">服务</a></div>
+     <div class="middlesmall"><a href="javascript:;">智能硬件</a></div>
+	 <div class="middlesmall"><a href="javascript:;">路由器</a></div>
+	 <div class="middlesmall"><a href="javascript:;">电视·盒子</a></div>
+	 <div class="middlesmall"><a href="javascript:;">平板</a></div>
+	 <div class="middlesmall"><a href="javascript:;">红米</a></div>
+	 <div class="middlesmall"><a href="javascript:;">小米手机</a></div>
+  </div>
+  <div class="yiright">
+     <div class="yirightzuo">
+       <div class="xiaoyou">
+	   <div class="xiaoyou1">小米手机4</div>
+	    <div class="xiaoyou2">手环</div>
+	   </div>
+      <input type="text" value="" name="user">
+	</div>
+     <div class="yirightyou">
+	   <img src="images/QQ图片20160222094801.png">
+	 </div>
+
+  </div>
+</div>
+<!--logo结束-->
+<!--banner开始-->
+<div class="banner">
+   <div class="bannerleft"></div>
+   <div class="window">
+       <a href="javascript:;"><img src="images/T17QEgBj_T1RXrhCrK.jpg"></a>
+	    <div class="gundongzuo"> < </div>
+	    <div class="gundongyou"> > </div>
+   </div>
+<div class="bannerleft1">
+    <div class="bannerleft1box"><a href="javascript:;">手机 平板 电话卡</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">电视 盒子</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">路由器 智能插件</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">移动电源 插线板</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">耳机 音箱</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">电池 存储卡</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">保护套 后盖</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">贴膜 其他配件</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">米兔 服饰</a><div class="jbwanyin">&gt</div></div>
+	<div class="bannerleft1box"><a href="javascript:;">箱包 其他周边</a><div class="jbwanyin">&gt</div></div>
+</div>
+<div class="anniu">
+    <div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+</div>
+</div>
+<!--banner结束-->
+<div class="smallbanner">
+<div class="smallbannerleft">
+     <div class="shuxian"></div>
+	 <div class="shuxian1"></div>
+	 <div class="shuxian2"></div>
+	 <div class="shuxian3"></div>
+	 <div class="shuxian4"></div>
+	 <div class="shuxian5"></div>
+	 <div class="shuxian6"></div>
+    <div class="boxa">电信专场</div>
+    <div class="boxa">企业团购</div>
+    <div class="boxa">官翻产品</div>
+    <div class="boxa">小米移动</div>
+    <div class="boxa">以旧换新</div>
+    <div class="boxa">话费充值</div>
+</div> 
+<div class="smallbannerright">
+<div class="smallbannerright1"><a href="javascript:;"><img src="images/T13iY_B5bv1RXrhCrK.jpg"></a></div>
+<div class="smallbannerright1"><a href="javascript:;"><img src="images/T1aSW_B7Zv1RXrhCrK.jpg"></a></div>
+<div class="smallbannerright1"><a href="javascript:;"><img src="images/T10oE_BQCv1RXrhCrK.jpg"></a></div>
+</div>
+
+</div>
+<!--smallbanner结束--->
+<div class="mingxing"> 
+    <div class="mingxingshang">小米明星产品</div>
+    <div class="mingxingxia">
+	   <div class="xiaokuai1">
+	     <div class="mxtupian">
+		     <img src="images/T1MaL_BQbT1RXrhCrK.jpg"></div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 
+	   </div>
+	   <div class="xiaokuai"><div class="mxtupian">
+		     <img src="images/T1MaL_BQbT1RXrhCrK.jpg"></div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai"><div class="mxtupian">
+		     <img src="images/T1MaL_BQbT1RXrhCrK.jpg"></div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai"><div class="mxtupian">
+		     <img src="images/T1MaL_BQbT1RXrhCrK.jpg"></div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai2"><div class="mxtupian">
+		     <img src="images/T1MaL_BQbT1RXrhCrK.jpg"></div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	</div>
+</div>
+<!--内容-->
+  <div class="main">
+   <div class="box">
+     <div class="boxtop">智能硬件
+	   <div class="ckqb">查看全部</div>
+	   <div class="dayu">123</div>
+	 </div>
+      <div class="boxbottom">
+	     <div class="boxbottomleft">
+		 <img src="images/T1ObdvBbJv1RXrhCrK.jpg">
+		 </div>
+		 <div class="boxbottomright">
+		    <div class="smallbox">
+			  <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+		    </div>
+			<div class="smallbox">
+			 <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			 <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+		 </div>
+	 </div>
+ </div>
+ 
+   <div class="box1">
+     <div class="boxtop">搭配</div>
+     <div class="boxbottom">
+	     <div class="boxbottomsmallleft">
+		 <a href="javascript:;">
+		 <img src="images/T1x2JgBXhv1RXrhCrK.jpg">
+		 </a>
+		 <a href="javascript:;"><img src="images/T1ECV_BjYv1RXrhCrK.jpg">
+		 </div>
+		 <div class="boxbottomright">
+		    <div class="smallbox">
+			  <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+			  <div class="dingwei">享7折</div>
+		    </div>
+			<div class="smallbox">
+			 <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			 <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div><div class="dingwei">享7折</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+			  </div>
+			<div class="smallbox smallbox1">
+			  <div class="smallbox1top">
+			    <div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div>
+			</div>
+			<div class="smallbox1bottom"><div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div></div>
+			  </div>
+		 </div>
+	 </div>
+ 
+   </div>
+     
+ <div class="box1">
+     <div class="boxtop">配件</div>
+     <div class="boxbottom">
+	     <div class="boxbottomsmallleft">
+		 <a href="javascript:;">
+		 <img src="images/T1x2JgBXhv1RXrhCrK.jpg">
+		 </a>
+		 <a href="javascript:;"><img src="images/T1ECV_BjYv1RXrhCrK.jpg">
+		 </div>
+		 <div class="boxbottomright">
+		    <div class="smallbox">
+			  <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+		    </div>
+			<div class="smallbox">
+			 <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			 <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+			  </div>
+			<div class="smallbox smallbox1">
+			  <div class="smallbox1top">
+			    <div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div>
+			</div>
+			<div class="smallbox1bottom"><div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div></div>
+			  </div>
+		 </div>
+	 </div>
+ 
+ </div>
+    
+ <div class="box1">
+     <div class="boxtop">周边</div>
+     <div class="boxbottom">
+	     <div class="boxbottomsmallleft">
+		 <a href="javascript:;">
+		 <img src="images/T1x2JgBXhv1RXrhCrK.jpg">
+		 </a>
+		 <a href="javascript:;"><img src="images/T1ECV_BjYv1RXrhCrK.jpg">
+		 </div>
+		 <div class="boxbottomright">
+		    <div class="smallbox">
+			  <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+		    </div>
+			<div class="smallbox">
+			 <a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			 <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div></div>
+			<div class="smallbox"><a href="javascript:;">
+			  <img src="images/T1yaAjBsLT1RXrhCrK.jpg"></a>
+			  <a  href="javascript:;">小米体重秤</a>
+			  <div class="neirong">高精度压力传感器,手机管理全家健康</div>
+			  <div class="neirongone">99元</div>
+			  </div>
+			<div class="smallbox smallbox1">
+			  <div class="smallbox1top">
+			    <div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div>
+			</div>
+			<div class="smallbox1bottom"><div class="smallbox1topleft">
+				   <div class="shang">
+				   <a href="javascript:;">
+				   小米活塞耳机
+				   </a>
+				   <div class="xia">69元</div>
+                   </div> 
+					
+			    </div>
+			    <div class="smallbox1topright">
+				<a href="javascript:;">
+				<img src="images/T1Qjx_BQxT1RXrhCrK.jpg">
+				</a>
+				</div></div>
+			  </div>
+		 </div>
+	 </div>
+ 
+ </div>
+ <div class="mingxing"> 
+    <div class="mingxingshang">为你推荐</div>
+    <div class="mingxingxia">
+	   <div class="xiaokuai1 xiaokuaitoo">
+	          <div class="mxtupian tp">
+		     </div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 
+	   </div>
+	   <div class="xiaokuai xiaokuaitoo">
+	        <div class="mxtupian tp">
+		    </div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai xiaokuaitoo">
+	         <div class="mxtupian tp">
+		     </div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai xiaokuaitoo">
+	         <div class="mxtupian tp">
+		     </div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	   <div class="xiaokuai2 xiaokuaitoo">
+	         <div class="mxtupian tp">
+		     </div>
+			 <div class="mxwenzi">小米手机4</div>
+			 <div class="mxhuizi">工艺和手感超乎想象</div>
+			 <div class="mxhuangzi">1299元起</div>
+		 </div>
+	</div>
+ 
+  </div>
+  <div class="rpdakuang">
+     <div class="rpcp">热评产品</div>
+     <div class="rpcpxiamian">
+	    <div class="yigebox">
+		   <div class="sigebox"><img src="images/T1RpZ_BXhv1RXrhCrK.jpg">
+		      <div class="pinglun">小米的产品值得信赖，用了一段时间，无论是听歌，打电话音质都非常好，继续支持</div>
+			  <div class="laizi">内容来自小米客户的评价</div>
+			  <div class="zhonglei">
+			       <div class="zhongleizuo">小米蓝牙耳机</div>
+				   <div class="xixian">|</div>
+				   <div class="zhongleiyou">79元</div>
+			  </div>
+		   </div>
+		</div>
+		<div class="sangebox">
+		   <div class="sigebox"><img src="images/T1RpZ_BXhv1RXrhCrK.jpg"><div class="pinglun">小米的产品值得信赖，用了一段时间，无论是听歌，打电话音质都非常好，继续支持</div>
+			  <div class="laizi">内容来自小米客户的评价</div>
+			  <div class="zhonglei">
+			       <div class="zhongleizuo">小米蓝牙耳机</div>
+				   <div class="xixian">|</div>
+				   <div class="zhongleiyou">79元</div>
+			  </div></div>
+		</div>
+        <div class="sangebox">
+		   <div class="sigebox"><img src="images/T1RpZ_BXhv1RXrhCrK.jpg"><div class="pinglun">小米的产品值得信赖，用了一段时间，无论是听歌，打电话音质都非常好，继续支持</div>
+			  <div class="laizi">内容来自小米客户的评价</div>
+			  <div class="zhonglei">
+			       <div class="zhongleizuo">小米蓝牙耳机</div>
+				   <div class="xixian">|</div>
+				   <div class="zhongleiyou">79元</div>
+			  </div></div>
+		</div>
+        <div class="sangebox">
+		   <div class="sigebox"><img src="images/T1RpZ_BXhv1RXrhCrK.jpg"><div class="pinglun">小米的产品值得信赖，用了一段时间，无论是听歌，打电话音质都非常好，继续支持</div>
+			  <div class="laizi">内容来自小米客户的评价</div>
+			  <div class="zhonglei">
+			       <div class="zhongleizuo">小米蓝牙耳机</div>
+				   <div class="xixian">|</div>
+				   <div class="zhongleiyou">79元</div>
+			  </div></div>
+		</div> 
+         
+	 </div>
+</div>
+ <div class="nrbankuai">
+      <div class="boxshang">内容</div>
+	  <div class="boxxia">
+	     <div class="boxxiaxiaozuo">
+		     <div class="kongbai"></div>
+		     <div class="tushu">图书</div>
+			 <div class="mianfeizhuanqu">免费专区</div>
+			 <div class="wangyoupinglun">万本好书免费看，独家好书免费领，天天更新，给你好看!</div>
+			 <div class="ksbhq">看书不花钱</div>
+			 <div class="boxtupian"><img src="images/T1PRZjBjET1RXrhCrK.jpg"></div>
+			 <div class="gundongdian">
+			     <span class="diyigeyuandian"></span>
+				 <span></span>
+				 <span></span>
+				 <span></span>
+			 </div>
+		 </div>
+         <div class="boxxiaxiao">
+		     <div class="kongbai"></div>
+		     <div class="tushu">图书</div>
+			 <div class="mianfeizhuanqu">免费专区</div>
+			 <div class="wangyoupinglun">万本好书免费看，独家好书免费领，天天更新，给你好看!</div>
+			 <div class="ksbhq">看书不花钱</div>
+			 <div class="boxtupian"><img src="images/T1PRZjBjET1RXrhCrK.jpg"></div>
+			 <div class="gundongdian">
+			     <span class="diyigeyuandian"></span>
+				 <span></span>
+				 <span></span>
+				 <span></span>
+			 </div>
+		 </div>
+		 <div class="boxxiaxiao">
+		     <div class="kongbai"></div>
+		     <div class="tushu">图书</div>
+			 <div class="mianfeizhuanqu">免费专区</div>
+			 <div class="wangyoupinglun">万本好书免费看，独家好书免费领，天天更新，给你好看!</div>
+			 <div class="ksbhq">看书不花钱</div>
+			 <div class="boxtupian"><img src="images/T1PRZjBjET1RXrhCrK.jpg"></div>
+			 <div class="gundongdian">
+			     <span class="diyigeyuandian"></span>
+				 <span></span>
+				 <span></span>
+				 <span></span>
+			 </div>
+		 </div>
+		 <div class="boxxiaxiao">
+		     <div class="kongbai"></div>
+		     <div class="tushu">图书</div>
+			 <div class="mianfeizhuanqu">免费专区</div>
+			 <div class="wangyoupinglun">万本好书免费看，独家好书免费领，天天更新，给你好看!</div>
+			 <div class="ksbhq">看书不花钱</div>
+			 <div class="boxtupian"><img src="images/T1PRZjBjET1RXrhCrK.jpg"></div>
+			 <div class="gundongdian">
+			     <span class="diyigeyuandian"></span>
+				 <span></span>
+				 <span></span>
+				 <span></span>
+			 </div>
+	  </div>
+   </div>
+ </div>
+  <div class="shipin">
+      <div class="shipinshang">视频</div>
+	  <div class="shipinxia">
+	     <div class="shipinxiayige">
+		    <div class="shipintupian"><a href="javascript:;"><img src="images/T1qDE_BbdT1RXrhCrK.jpg"></a></div>
+			<div class="shipinneirong"><a href="javascript:;">小米2015新品发布会(雷军深情告白)</a></div>
+			<div class="shipinneirong1">雷总深情独白:我所有的向往</div>
+			<div class="shipinanniu"></div>
+		 </div>
+		 <div class="shipinxiasange">
+		    <div class="shipintupian"><a href="javascript:;"><img src="images/T1qDE_BbdT1RXrhCrK.jpg"></a></div>
+			<div class="shipinneirong"><a href="javascript:;">小米2015新品发布会(雷军深情告白)</a></div>
+			<div class="shipinneirong1">雷总深情独白:我所有的向往</div>
+			<div class="shipinanniu"></div>
+		</div>
+		 <div class="shipinxiasange">
+		    <div class="shipintupian"><a href="javascript:;"><img src="images/T1qDE_BbdT1RXrhCrK.jpg"></a></div>
+			<div class="shipinneirong"><a href="javascript:;">小米2015新品发布会(雷军深情告白)</a></div>
+			<div class="shipinneirong1">雷总深情独白:我所有的向往</div>
+			<div class="shipinanniu"></div>
+		</div>
+		 <div class="shipinxiasange">
+		    <div class="shipintupian"><a href="javascript:;"><img src="images/T1qDE_BbdT1RXrhCrK.jpg"></a></div>
+			<div class="shipinneirong"><a href="javascript:;">小米2015新品发布会(雷军深情告白)</a></div>
+			<div class="shipinneirong1">雷总深情独白:我所有的向往</div>
+			<div class="shipinanniu"></div>
+		</div>
+	  </div>
+  </div>
+<div class="zuixiamianda">
+    <div class="zuixiamian">
+       <div class="zxmbox1">1小时快修服务</div>
+	   <div class="zxmbox">7天无理由退货</div>
+	   <div class="zxmbox">15天免费换货</div>
+	   <div class="zxmbox">满150元包邮</div>
+	   <div class="zxmbox">520余家售后网点</div>
+     </div>
+	 <div class="thezuixiamian">
+	     <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		 </div>
+		 <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		 </div>
+		 <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		 </div>
+		 <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		</div>
+		 <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		 </div>
+		 <div class="thexiaobox">
+		    <div class="bangzhu">帮助中心</div>
+			<div class="gouwu">购物指南</div>
+			<div class="zhifu">支付方式</div>
+			<div class="peisong">配送方式</div>
+		 </div>
+		 <div class="shijianbox">
+		     <div class="dianhuahaoma">400-100-5678</div>
+			 <div class="gongzuoshijian">周一至周日 8:00-18:00</div>
+			 <div class="shihuashoufei">（仅收市话费）</div>
+			 <div class="zaixian">
+			    <a href="javascript:;">
+			    <div>24小时在线客服</div>
+				</a>
+			 </div>
+		 </div>
+	 </div>
+ </div> 
+ <div class="beianhao">
+     <div class="beianhaozi">
+	    <div class="xiaomitubiao"></div>
+		 <div class="beianhaoyou">
+		  <div class="beianhaoshang">
+		   <a href="javascript:;">小米</a>
+		   <span>|</span>
+		   <a href="javascript:;">MIUI</a>
+		   <span>|</span>
+		   <a href="javascript:;">米聊</a>
+		   <span>|</span>
+		   <a href="javascript:;">多看书城</a>
+		   <span>|</span>
+		   <a href="javascript:;">小米路由器</a>
+		   <span>|</span>
+		   <a href="javascript:;">视频电话</a>
+		   <span>|</span>
+		   <a href="javascript:;">小米后院</a>
+		   <span>|</span>
+		   <a href="javascript:;">小米天猫店</a>
+		   <span>|</span>
+		   <a href="javascript:;">小米淘宝直营店</a>
+		   <span>|</span>
+		   <a href="javascript:;">小米加盟</a>
+		   <span>|</span>
+		   <a href="javascript:;">问题反馈</a>
+		   <span>|</span>
+		   <a href="javascript:;">Select Region</a>
+		 </div>
+		 <div class="beianhaoyouxia">
+		   <a href="javascript:;">©mi.com 京ICP证110507号 京ICP备10046444号 京公网安备1101080212535号 京网文[2014]0059-0009号 违法和不良信息举报电话：185-0130-1238</a>
+		</div>
+	</div>
+	<div class="beianzuiyou">
+	   <a href="javascript:;"><img src="images/QQ图片20160223172757.png"></a>
+	</div>
+  </div>
+ </div>
+  </body>
+</html>
